@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>English</string>
+		<key>CFBundleDisplayName</key>
+		<string>Spacemacs</string>
+		<key>CFBundleExecutable</key>
+		<string>spacemacs</string>
+		<key>CFBundleIconFile</key>
+		<string>spacemacs.icns</string>
+		<key>CFBundleName</key>
+		<string>Spacemacs</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>0.1.0</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>0.1.0</string>
+		<key>NSHumanReadableCopyright</key>
+		<string>Copyright (c) 2019 Kevin Feng.</string>
+		<key>CFBundleGetInfoString</key>
+		<string>This piece of software contains a GNU Emacs universal binary made by emacsforosx.com, a copy of Spacemacs, Spacemacs icons by Nasser Alshammari, and code by Kevin Feng</string>
+	</dict>
+</plist>
