@@ -1,0 +1,8 @@
+usage: ./spacemacs-app.sh [--help | -h] [--clean | -c [<all|build>]]
+                          [--build | -b]
+
+options:
+    --help, -h          show this help message
+    --clean, -c         clean the build directories, use "all" for everything
+                        or "build" or nothing for just the current build
+    --build, -b         build the app for release
